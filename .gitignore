@@ -1,5 +1,5 @@
 # Source files
-*.py
+netInfo.py
 
 # Supporting files 
 icon.png

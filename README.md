@@ -1,1 +1,1 @@
-Provides information about your network connection with Bandwidth rate.
+Provides information about your network connection with monitoring using RaspberryPi.
